@@ -1,66 +1,59 @@
 # formulário-de-cadastro-responsivo
 
-Formulário de cadastro moderno e totalmente responsivo, desenvolvido com HTML e CSS.
+📋 **Descrição:** Formulário de cadastro moderno e totalmente responsivo, desenvolvido com HTML5 e CSS3. O projeto possui interface intuitiva, layout adaptável para diferentes dispositivos e foco na experiência do usuário.
 
-## 📖 Sobre o Projeto
+🚀 **Funcionalidades Principais:**
 
-Este projeto apresenta uma interface de cadastro com design moderno, organizada em duas seções: uma área ilustrativa e um formulário para coleta de dados do usuário. O layout foi desenvolvido utilizando Flexbox e Media Queries para garantir uma boa experiência em diferentes dispositivos.
+* 📝 **Formulário Completo** - Campos para nome, sobrenome, e-mail, telefone e senha
+* 👤 **Seleção de Gênero** - Diferentes opções de identificação
+* 📱 **Design Responsivo** - Adaptado para desktop, tablet e dispositivos móveis
+* 🎨 **Interface Moderna** - Layout limpo e agradável visualmente
+* ⚡ **Validação HTML5** - Campos obrigatórios e validação nativa do navegador
 
-## 🚀 Tecnologias Utilizadas
+🛠 **Tecnologias Utilizadas:**
 
-* HTML5
-* CSS3
-* Google Fonts (Inter)
+* **Estrutura:** HTML5
+* **Estilização:** CSS3
+* **Layout:** Flexbox
+* **Responsividade:** Media Queries
+* **Fontes:** Google Fonts (Inter)
 
-## ✨ Funcionalidades
+📱 **Responsividade:**
 
-* Cadastro de usuário com:
+* ✅ **Desktop** - Exibe formulário e ilustração lado a lado
+* ✅ **Tablet** - Ajuste automático dos elementos para melhor visualização
+* ✅ **Mobile** - Oculta a ilustração e reorganiza os campos para melhor usabilidade
 
-  * Primeiro nome
-  * Sobrenome
-  * E-mail
-  * Celular
-  * Senha
-  * Confirmação de senha
-* Seleção de gênero
-* Botão de login
-* Design moderno e intuitivo
-* Layout responsivo para desktop, tablet e smartphone
+🎨 **Recursos de Interface:**
 
-## 📂 Estrutura do Projeto
+* ✅ Campos com efeito hover
+* ✅ Destaque visual ao focar nos inputs
+* ✅ Botões com animação de interação
+* ✅ Layout moderno utilizando Flexbox
+* ✅ Ilustração integrada ao design
+
+📁 **Estrutura do Projeto:**
 
 ```text
-📁 formulário-de-cadastro-responsivo
-│
+formulario-de-cadastro-responsivo/
 ├── index.html
-│
-├── assets
-│   ├── css
+├── assets/
+│   ├── css/
 │   │   └── style.css
-│   │
-│   └── img
+│   └── img/
 │       └── undraw_access-account_aydp.svg
-│
 └── README.md
 ```
 
-## 📱 Responsividade
+📚 **Conceitos Aplicados:**
 
-O projeto foi desenvolvido para se adaptar a diferentes tamanhos de tela:
-
-* **Desktop:** exibe a ilustração e o formulário lado a lado.
-* **Tablet:** ajusta o tamanho dos elementos para melhor visualização.
-* **Mobile:** oculta a ilustração e reorganiza os campos para facilitar a navegação.
-
-## 📚 Conceitos Praticados
-
-* Estruturação de formulários com HTML5
-* Flexbox
+* HTML5 Semântico
+* CSS Flexbox
 * Responsividade com Media Queries
-* Estilização de formulários
+* Formulários HTML
 * Pseudo-elementos CSS
-* Estados de interação (`hover` e `focus`)
+* Estados de interação (hover e focus)
 
-## 👨‍💻 Autor
+👨‍💻 **Autor**
 
-Projeto desenvolvido para fins de estudo e prática de desenvolvimento front-end.
+Desenvolvido por Nayara Karla Medeiros da Silva como projeto de estudo para praticar conceitos de HTML5, CSS3, Flexbox e Responsividade.
